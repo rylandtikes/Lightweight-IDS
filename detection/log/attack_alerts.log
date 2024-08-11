@@ -1,0 +1,205 @@
+DEBUG:ptxcompiler.patch:CUDA Driver version 12.0
+DEBUG:ptxcompiler.patch:CUDA Runtime version 12.4
+DEBUG:ptxcompiler.patch:Patching Numba to use CubinLinker
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:__main__:Processing packet 1
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 2
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 3
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 4
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 5
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 6
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 7
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 8
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 9
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 10
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 11
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 12
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 13
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 14
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 15
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 16
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 17
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 18
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 19
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 20
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 21
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 22
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 23
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 24
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 25
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 26
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 27
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 28
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 29
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 30
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 31
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 32
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 33
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 34
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 35
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 36
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 37
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 38
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 39
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 40
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 41
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 42
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 43
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 44
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 45
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 46
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 47
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 48
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 49
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 50
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 51
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 52
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 53
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 54
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 55
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 56
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 57
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 58
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 59
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 60
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 61
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 62
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 63
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 64
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 65
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 66
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 67
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 68
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 69
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 70
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 71
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 72
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 73
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 74
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 75
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 76
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 77
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 78
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 79
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 80
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 81
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 82
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 83
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 84
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 85
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 86
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 87
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 88
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 89
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 90
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 91
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 92
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 93
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 94
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 95
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 96
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 97
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 98
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 99
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 100
+INFO:__main__:RF Prediction: 0.0, KNN Prediction: 0
+DEBUG:__main__:Processing packet 101
