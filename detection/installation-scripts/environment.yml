@@ -1,0 +1,22 @@
+name: cuml-env
+channels:
+  - rapidsai
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8
+  - cudatoolkit=11.2
+  - cuml=22.12
+  - numba=0.56
+  - llvmlite=0.39
+  - cupy=9.6
+  - seaborn=0.11
+  - pandas
+  - scikit-learn
+  - pyshark
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+    - dask
+    - dask-cudf
