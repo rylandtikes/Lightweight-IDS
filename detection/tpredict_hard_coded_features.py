@@ -3,8 +3,14 @@ import pandas as pd
 import joblib
 import logging
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG, 
+                    handlers=[
+                        logging.FileHandler("log/attack_alerts.log"),
+                        logging.StreamHandler()
+                    ])
 logger = logging.getLogger(__name__)
+
+logging.getLogger('numba').setLevel(logging.WARNING)
 
 rf_model = joblib.load('models/rf_model_cuml.pkl')
 knn_model = joblib.load('models/knn_model_cuml.pkl')
@@ -144,16 +150,11 @@ def generate_realtime_dataset_from_pcap(pcap_file):
                         break
                 else:
                     logger.warning(f"Skipping packet {packet_count}: Insufficient features (expected {len(expected_features)}, got {X_new.shape[1]})")
-                    
-            #if packet_count > 100:
-            #    break
 
     except pyshark.capture.capture.TSharkCrashException as e:
         logger.error(f"TShark crashed: {e}")
         if hasattr(e, 'last_line'):
             logger.error(f"Last error line: {e.last_line}")
 
-# Start processing the pcap file in real-time
-#pcap_file = '/tmp/captured_traffic.pcap0'
 pcap_file = '../training/cicids2017/Friday-WorkingHours.pcap'
 generate_realtime_dataset_from_pcap(pcap_file)
