@@ -1,0 +1,13 @@
+Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+      Normal       1.00      1.00      1.00        32
+      Attack       1.00      1.00      1.00        10
+
+    accuracy                           1.00        42
+   macro avg       1.00      1.00      1.00        42
+weighted avg       1.00      1.00      1.00        42
+
+Confusion Matrix:
+[[32  0]
+ [ 0 10]]
