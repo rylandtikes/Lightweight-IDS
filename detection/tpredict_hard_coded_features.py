@@ -12,8 +12,8 @@ logger = logging.getLogger(__name__)
 
 logging.getLogger('numba').setLevel(logging.WARNING)
 
-rf_model = joblib.load('models/rf_model_cuml.pkl')
-knn_model = joblib.load('models/knn_model_cuml.pkl')
+rf_model = joblib.load('models/rf_model.pkl')
+knn_model = joblib.load('models/knn_model.pkl')
 scaler = joblib.load('models/scaler.pkl')
 
 expected_features = [
