@@ -1,6 +1,8 @@
 # Lightweight-IDS  
 Lightweight IDS on Raspberry Pi Using Machine Learning
 
+[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-View%20Paper-blue)](https://paperswithcode.com/paper/implementing-lightweight-intrusion-detection)
+
 ## Project Overview
 
 This project implements a hybrid Intrusion Detection System (IDS) for resource-constrained platforms like Raspberry Pi. It combines:
