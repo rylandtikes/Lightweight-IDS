@@ -1,7 +1,7 @@
 # Lightweight-IDS  
 Lightweight IDS on Raspberry Pi Using Machine Learning
 
-[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-View%20Paper-blue)](https://paperswithcode.com/paper/implementing-lightweight-intrusion-detection)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/implementing-lightweight-intrusion-detection/intrusion-detection-on-cicids2017)](https://paperswithcode.com/sota/intrusion-detection-on-cicids2017?p=implementing-lightweight-intrusion-detection)
 
 ## Project Overview
 
